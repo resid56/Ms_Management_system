@@ -1,0 +1,6 @@
+server:
+  port: 3306
+api:
+  base:
+    url: http://localhost:3306/api/v1
+
